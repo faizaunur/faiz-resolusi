@@ -1,0 +1,6 @@
+Rencana konten Faiz
+- Vlog s2
+- vlog ielts
+- interview
+* Menambahkan detail konten
+* menambahkan detail javascrip
