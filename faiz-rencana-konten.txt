@@ -4,4 +4,6 @@ Rencana konten Faiz
 - interview
 * Menambahkan detail konten
 * menambahkan detail javascrip
+^Vue
 - Fundamnental data structure
+-python
