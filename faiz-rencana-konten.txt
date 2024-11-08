@@ -4,6 +4,8 @@ Rencana konten Faiz
 - interview
 * Menambahkan detail konten
 * menambahkan detail javascrip
-^ Angular
+^ Vue
 ^ react
+- Fundamnental data structure
+-python
 
